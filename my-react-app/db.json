@@ -1,0 +1,16 @@
+{
+  "shapes": [
+    {
+      "id": "e8f5",
+      "tlColor": "green",
+      "tfrType": "circle",
+      "clickCount": 1
+    },
+    {
+      "id": "1b62",
+      "tlColor": "Black",
+      "tfrType": "triangle",
+      "clickCount": 3
+    }
+  ]
+}
